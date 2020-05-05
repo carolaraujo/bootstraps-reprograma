@@ -1,5 +1,5 @@
 .bg-roxo {
-    background-color: #a33fa3;
+    background-color: #7e4598;
 }
 
 a:hover{
@@ -14,4 +14,17 @@ a:hover{
 
 .name_ref{
     text-align: center;
+    padding: 50px;
+}
+
+a{ 
+    color: #7e4598; 
+} 
+
+.icones{
+    padding: 10px;
+}
+
+.linksobre:horver{
+    color: #7e4598;
 }
