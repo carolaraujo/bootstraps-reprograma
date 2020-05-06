@@ -28,3 +28,12 @@ a{
 .linksobre:horver{
     color: #7e4598;
 }
+
+button{
+    width: 100px;
+
+}
+
+button:hover{
+    opacity: .9;
+}
