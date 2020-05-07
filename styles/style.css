@@ -6,11 +6,12 @@ a:hover{
     font-weight: bold;
 }
 
-.img-carousel{
+.imagem-carousel{
     height: 80vh;
     object-fit: cover;
-    object-position: 0 35%;
+    object-position: 0 25%;
 }
+
 
 .name_ref{
     text-align: center;
